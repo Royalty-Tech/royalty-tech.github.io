@@ -11,3 +11,8 @@ div#header {
 .nav-tabs{
   background-color:#161616;
 }
+
+.nav-tabs > li > a {
+  color: #575757;
+}
+
