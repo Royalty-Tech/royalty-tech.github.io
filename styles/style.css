@@ -31,7 +31,12 @@ div#header {
 
 div.tab-content > div > h3 {
  font-family: 'Bebas Neue', cursive;
- color: #f3f3f3;
+ color: #f5f5f5;
+}
+
+div.tab-content > div > p {
+  font-family: 'Oleo script', cursive;
+  color: #e2e2e2;
 }
 
 
