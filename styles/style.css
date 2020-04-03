@@ -29,7 +29,7 @@ div#header {
   color: #f1f1f1;
 }
 
-.tab-content > h3 {
+div.tab-content > div > h3 {
  font-family: 'Bebas Neue', cursive;
  color: #f3f3f3;
 }
