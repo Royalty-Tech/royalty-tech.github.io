@@ -19,6 +19,7 @@ background:#FFAE42;
 
 div#header {
   font-family: 'Bebas Neue', cursive;
+  display: inline;
 }
 
 .nav-tabs{
